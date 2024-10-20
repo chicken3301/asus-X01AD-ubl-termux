@@ -1,0 +1,1 @@
+getvar:platform FAILED (remote: GetVar Variable Not found)
