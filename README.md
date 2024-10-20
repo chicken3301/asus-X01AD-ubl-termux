@@ -7,17 +7,9 @@ unlock bootloader asus zenfone max M2 using termux
 - install Termux:API from F-Droid
 - in Termux:
 ```
-pkg install git
+pkg install git && git clone https://github.com/chicken3301/asus-X01AD-ubl-termux.git && cd asus-X01AD-ubl-termux
 ```
 
 ```
-git clone https://github.com/chicken3301/asus-X01AD-ubl-termux.git && cd asus-X01AD-ubl-termux
-```
-
-```
-chmod +X termux-unlock.sh
-```
-
-```
-sh termux-unlock.sh
+chmod +X termux-unlock.sh && sh termux-unlock.sh
 ```
