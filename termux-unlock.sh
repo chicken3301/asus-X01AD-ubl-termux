@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-#    Script By chickentikka007
+#    Script By chicken-tikka007
 #    For download all img by fastboot
 #    2024/01/13
 #
